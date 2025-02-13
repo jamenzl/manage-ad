@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Creating Users Through Powershell</h1>
-This tutorial outlines the implementation and deployment of on-premises Active Directory with regards to creating users within Azure Virtual Machines.<br />
+<h1>Group Policy and Managing Accounts</h1>
+This tutorial outlines the implementation and deployment of on-premises Active Directory with regards to Group Policy and Account Management within Azure Virtual Machines.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,8 +20,9 @@ This tutorial outlines the implementation and deployment of on-premises Active D
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Setup Remote Desktop for non-administrative users on Client-1
-- Create a bunch of additional users and attempt to log into client-1 with one of the users
+- Dealing with Account Lockouts
+- Enabling and Disabling Accounts
+- Observing Logs
 
 <h2>Deployment and Configuration Steps</h2>
 
